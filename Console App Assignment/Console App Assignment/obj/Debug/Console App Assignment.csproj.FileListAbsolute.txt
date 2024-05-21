@@ -1,0 +1,7 @@
+C:\Users\flame\OneDrive\Documents\GitHub\Basic_C#_Programs\Console App Assignment\Console App Assignment\bin\Debug\Console App Assignment.exe.config
+C:\Users\flame\OneDrive\Documents\GitHub\Basic_C#_Programs\Console App Assignment\Console App Assignment\bin\Debug\Console App Assignment.exe
+C:\Users\flame\OneDrive\Documents\GitHub\Basic_C#_Programs\Console App Assignment\Console App Assignment\bin\Debug\Console App Assignment.pdb
+C:\Users\flame\OneDrive\Documents\GitHub\Basic_C#_Programs\Console App Assignment\Console App Assignment\obj\Debug\Console App Assignment.csproj.AssemblyReference.cache
+C:\Users\flame\OneDrive\Documents\GitHub\Basic_C#_Programs\Console App Assignment\Console App Assignment\obj\Debug\Console App Assignment.csproj.CoreCompileInputs.cache
+C:\Users\flame\OneDrive\Documents\GitHub\Basic_C#_Programs\Console App Assignment\Console App Assignment\obj\Debug\Console App Assignment.exe
+C:\Users\flame\OneDrive\Documents\GitHub\Basic_C#_Programs\Console App Assignment\Console App Assignment\obj\Debug\Console App Assignment.pdb
