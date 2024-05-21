@@ -43,8 +43,7 @@ namespace Branching_Assignment
                 Num3 = Convert.ToInt32(Console.ReadLine());
                 // total size calculation
                 total = (Num1 + Num2 + Num3);
-                // price calculation
-                total1 = (Num1 * Num2 * Num3 * weight / 100);
+               
             }
 
 
@@ -58,6 +57,8 @@ namespace Branching_Assignment
             // price quote loop
             else if (weight < 50 && total < 50) 
             {
+                // price calculation
+                total1 = (Num1 * Num2 * Num3 * weight / 100);
                 Console.WriteLine("Your shipping quote is " + (total1));
                 Console.ReadLine();
             }
