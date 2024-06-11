@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\flame\\OneDrive\\Documents\\GitHub\\The Tech Academy Basic C-Sharp Projects\\ConsoleAppAssignmentPart1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C435ECC8-10DA-4E1A-BCE2-049F6C8D7381}|ConsoleAppAssignmentPart1\\ConsoleAppAssignmentPart1.csproj|c:\\users\\flame\\onedrive\\documents\\github\\the tech academy basic c-sharp projects\\consoleappassignmentpart1\\consoleappassignmentpart1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C435ECC8-10DA-4E1A-BCE2-049F6C8D7381}|ConsoleAppAssignmentPart1\\ConsoleAppAssignmentPart1.csproj|solutionrelative:consoleappassignmentpart1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\flame\\OneDrive\\Documents\\GitHub\\The Tech Academy Basic C-Sharp Projects\\ConsoleAppAssignmentPart1\\ConsoleAppAssignmentPart1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppAssignmentPart1\\Program.cs",
+              "ToolTip": "C:\\Users\\flame\\OneDrive\\Documents\\GitHub\\The Tech Academy Basic C-Sharp Projects\\ConsoleAppAssignmentPart1\\ConsoleAppAssignmentPart1\\Program.cs",
+              "RelativeToolTip": "ConsoleAppAssignmentPart1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T14:44:52.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
